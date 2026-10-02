@@ -28,7 +28,7 @@ GitHub Pages serves the WebGL build from `docs/`:
 
 https://jizhijin.github.io/game-demo/
 
-If Pages is not enabled yet, open `docs/index.html` through a local web server. The Unity source build is also in `Build/WebGLPlayer/`.
+The Unity source build is also in `Build/WebGLPlayer/`.
 
 ## Team
 
@@ -36,3 +36,4 @@ If Pages is not enabled yet, open `docs/index.html` through a local web server. 
 - Hector R. Medina — discussion, design, and script writing
 
 AI use was approved for this assignment. See `AI_USAGE.md` for the brief disclosure.
+
