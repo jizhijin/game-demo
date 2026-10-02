@@ -1,0 +1,19 @@
+# Unity-generated and local editor files
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+
+# Historical build output and logs; keep the current Unity build and Pages build
+Build/WebGL/
+Build/*.log
+
+# Keep the current Unity WebGL build in the project repository
+!Build/WebGLPlayer/
+!Build/WebGLPlayer/**
